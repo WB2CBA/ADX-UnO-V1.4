@@ -3,7 +3,7 @@
 
 - UPDATE: 27-06-2023
 
-- ADX UnO V1.3 is now fully open source! All SMT production files are under Production Files folder.
+- ADX UnO V1.4 is now fully open source! All SMT production files are under Production Files folder.
 
 - I also added a Guide on how to order SMT manufactured PCBs from JLCPCB PCB production Company.
 
